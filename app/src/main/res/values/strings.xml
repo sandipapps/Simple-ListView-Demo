@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleListViewDemo</string>
+    <string name="lv_title">Simple ListView</string>
+</resources>
